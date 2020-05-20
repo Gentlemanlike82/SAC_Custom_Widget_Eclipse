@@ -12,7 +12,7 @@
         {
 			"kind": "main",
 			"tag": "com-sap-sample-helloworld1",
-            "url": "https://github.com/Gentlemanlike82/SAC_Custom_Widget_Eclipse.git/CustomWidgetSAC/webcomponent.js",
+            "url": "https://Gentlemanlike82.github.io/SAC_Custom_Widget_Eclipse/CustomWidgetSAC/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
         }
